@@ -1,0 +1,34 @@
+/********************************************** TAG SELECTOR *****************************************/
+
+
+
+   h1{
+ 
+    color:brown; 
+    font-size: 100px;
+
+}
+
+
+img:hover{
+    background-color:gold;}
+
+
+
+
+/********************************************** CLASS SELECTOR *****************************************/
+
+.Dog1 {
+     background-color: aquamarine;
+}
+
+.Dog2 {
+    background-color: pink;
+
+}
+
+/********************************************** ID SELECTOR *****************************************/
+
+#heading{
+    color: blueviolet;
+}
